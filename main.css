@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+input {
+    width: 80%;
+    height: 30px;
+    margin-bottom: 30px;
+}
+
+.container {
+    border: 2px red solid;
+    width: 80%;
+    margin: auto;
+}
+
+.row {
+    text-align: center;
+}
+
+#btn {
+    background-color: cornflowerblue;
+}
+
+#btn:hover {
+    background-color: cadetblue;
+}
+
+form label {
+    display: block;
+    text-align: left;
+    padding-left: 10%;
+}
+
+table {
+    width: 80%;
+    border: dotted black green;
+}
